@@ -24,7 +24,7 @@ bold_italic_font 'Hack Nerd Font Mono'
 #:     italic_font      Operator Mono Book Italic
 #:     bold_italic_font Operator Mono Medium Italic
 
-font_size 18.0
+font_size 20.0
 
 #: Font size (in pts)
 
@@ -2086,6 +2086,6 @@ watcher ${HOME}/.fig/tools/kitty-integration.py
 
 
 # BEGIN_KITTY_THEME
-# Falcon
+# Breath2
 include current-theme.conf
 # END_KITTY_THEME
