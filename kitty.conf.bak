@@ -24,7 +24,7 @@ bold_italic_font 'Hack Nerd Font Mono'
 #:     italic_font      Operator Mono Book Italic
 #:     bold_italic_font Operator Mono Medium Italic
 
-font_size 20.0
+font_size 18.0
 
 #: Font size (in pts)
 
@@ -962,7 +962,7 @@ tab_separator " ┇"
 
 #: The foreground and background colors
 
-background_opacity 0.5
+background_opacity 0.85
 
 #: The opacity of the background. A number between 0 and 1, where 1 is
 #: opaque and 0 is fully transparent.  This will only work if
@@ -2086,6 +2086,6 @@ watcher ${HOME}/.fig/tools/kitty-integration.py
 
 
 # BEGIN_KITTY_THEME
-# Breath2
+# 1984 Light
 include current-theme.conf
 # END_KITTY_THEME
